@@ -1,0 +1,15 @@
+{
+  "name": "minisocial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines" : { "node" : ">=v4.0.0" },
+  "author": "Marvin ROGER",
+  "license": "MIT",
+  "dependencies": {
+    "cytoscape": "^2.7.3"
+  }
+}
